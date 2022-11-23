@@ -7,7 +7,7 @@
 
 [3. Краткая информация о данных](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#краткая-информация-о-данных)
 
-[4. Этапы работы на проектом](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#краткая-информация-о-данных)
+[4. Этапы работы на проектом](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#этапы-работы-над-проектом)
 
 [5. Результат](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#результаты)
 
