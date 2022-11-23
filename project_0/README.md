@@ -35,7 +35,7 @@
 Учимся писать хороший код на python
 
 
-### Краткая инфрмация о данных
+### Краткая информация о данных
 ....
 
 :arrow_up: [к оглавлению](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#оглавление)
