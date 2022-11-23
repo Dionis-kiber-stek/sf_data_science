@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#оглавление)
+:arrow_up: [к оглавлению](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#оглавление)
 
 
 ### Какой кейс решаем 
@@ -31,4 +31,22 @@
  ### Краткая инфрмация о данных
   ....
 
+:arrow_up[к оглавлению](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#оглавление)
+
+
+### Этапы работы над проектом
+....
+
 :arrow_up [к оглавлению](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#оглавление)
+
+
+### Результаты
+....
+
+:arrow_up[к оглавлению](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#оглавление)
+
+
+### Выводы
+....
+
+:arrow_up[к оглавлению](https://github.com/Dionis-kiber-stek/sf_data_science/blob/main/project_0/README.md#оглавление)
